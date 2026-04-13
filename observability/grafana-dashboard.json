@@ -1,0 +1,8 @@
+
+{
+  "title": "AWX Monitoring",
+  "panels": [
+    {"type": "graph", "title": "CPU Usage"},
+    {"type": "graph", "title": "Pod Restarts"}
+  ]
+}
